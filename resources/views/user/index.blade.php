@@ -1,6 +1,7 @@
 @extends('user.base')
-
+@section('title', 'index')
 @section('content')
+    <link rel="stylesheet" href="{{ asset('css/index.css') }}">
     <div class="lunbanner">
         <a class="lunbo_a" href="#">
             <div class="lunbo">
@@ -143,11 +144,14 @@
             </div>
         </div>
     </div>
+    @include('user.contactUs')
 @endsection
 
 
+
+
 @section('jsScript')
-<script>
+    <script>
     $(function() {
         function play() {
             this.a = -1;

@@ -14,5 +14,31 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('user.index');
 });
+
+Route::get('/about', function () {
+    return view('user.about');
+});
+
+Route::get('/contact', function () {
+    return view('user.contact');
+});
+
+Route::get('/game', function () {
+    return view('user.game');
+});
+
+Route::get('/join', function () {
+    return view('user.join');
+});
+
+Route::get('/work', function () {
+    return view('user.work');
+});
+
+Route::get('/contact', function () {
+    return view('user.contact');
+});
+
+

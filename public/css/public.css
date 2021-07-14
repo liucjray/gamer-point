@@ -1,0 +1,181 @@
+/*========== 公共样式 ==========*/
+html, body, div, p, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, h5, h6, form, input, select, button, textarea, iframe, table, th, td {margin: 0 auto; padding: 0;font-family: "Microsoft YaHei";}
+img { border: 0 none; vertical-align: top; }
+ul,li,dl,dd,dt { list-style-type: none; }
+i,em,cite { font-style: normal; }
+body {  -webkit-text-size-adjust:none;  font-family:"Helvetica Neue",Helvetica,Arial,"sans-serif","PingFang SC";}
+a{ text-decoration: none; }
+a:focus,input:focus,select:focus { outline: none; }
+/*====导航栏=====*/
+		.nav {
+			position: relative;
+			width: 100%;
+			height: 90px;
+			border-bottom: 1px solid #E0E0E0;
+		}
+			.nav_con {
+				position: relative;
+				height: 90px;
+				width: 1250px;
+			}
+				.lang {
+					z-index: 5;
+					position: absolute;
+					right: 170px;
+					display: inline;
+					padding: 3px 20px;
+					background: #0080FF;
+					font-size: 13px;
+					color: white;
+					border-radius: 0 0 10px 10px;
+				}
+				.lang:hover {
+					cursor: pointer;
+				}
+				.lang_active {
+					color: #E0F769;
+				}
+					.lang span {
+						color: rgba(255,255,255,.4);
+					}
+					.work_english {
+						display: none;
+					}
+				.logo{
+					float: left;
+					margin-top: 20px;
+					margin-left: 50px;
+				}
+				.logo_infro {
+					float: left;
+					margin-left: 30px;
+					margin-top: 30px;
+				}
+				.nav .nav_ul {
+					float: left;
+					margin-left: 110px;
+				}
+					.nav .nav_ul li {
+						float: left;
+						position: relative;
+						text-align: center;
+						line-height: 90px;
+						width: 80px;
+						font-size: 16px;
+					}
+						.nav_li div {
+							position: absolute;
+							bottom: 0;
+							width: 0;
+							height: 3px;
+							background: #3E86E5;
+						} 
+						.li_ep{
+							z-index: 6;
+							position: relative;
+						}
+							
+								.li_ep div {
+									position: absolute;
+									top: 90px;
+									background: white;
+									margin-left: -10px;
+									height: 35px;
+									width: 120%;
+									line-height: 30px;
+									display: none;
+								}
+								.li_ep div:nth-of-type(2) {
+									padding-bottom: 10px;
+									top:125px;
+								}
+						.li_ep:hover {
+							cursor: pointer;
+							color: #3E86E5;
+						}
+						.li_ep:hover .li_list {
+							display: block;
+						}
+						.nav ul li .nav_line {
+							width: 100%;
+						}
+					.nav ul li:nth-of-type(2),.nav ul li:nth-of-type(3) {
+						margin-right: 25px;
+					}
+					.nav ul li:nth-of-type(4),.nav ul li:nth-of-type(5) {
+						margin-right: 18px;
+					}
+					.nav ul li:nth-of-type(1) {
+						margin-right: 15px;
+					}
+					.nav a {
+						color: #000;
+					}
+					.nav a:hover {
+						color: #3E86E5;
+					}
+					.nav .active_hover {
+						color: #3E86E5;
+					}
+					.n_circle {
+						width: 40px;
+						height: 40px;
+						background: #D5D5D5;
+						border-radius: 50%;
+						color: #F0F0F0;
+						margin-top: 20px;
+					}
+						.u_icon {
+							margin-left: 10px;
+							margin-top: 5px;
+							color: white;
+						}
+						.u_icon:before {
+							font-size: 27px;
+						}
+			.footer {
+			position: relative;
+			height: 170px;
+			width: 100%;
+			background: #272A2C;
+		}
+			.footer_con {
+				position: absolute;
+				top: 0;
+				bottom: 0;
+				left: 0;
+				right: 0;
+				width: 1250px;
+				height: 100px;
+				margin: auto;
+			}
+				.foote_logo,.footer_font {
+					float: left;
+				}
+					.foote_logo img {
+						margin-top: 20px;
+					}
+				.footer_font {
+					margin-left: 270px;
+					width: 750px;
+					height: 100%;
+					color: #FAFAFA;
+					font-size: 15px;
+				}
+						.footer_font ul li .np {
+							display: inline-block;
+							width: 50px;
+							color: #4B4D4F;
+							text-align: center;
+						}
+					.footer_font ul li {
+						line-height: 35px;
+					}
+					.footer_font ul li a {
+						color: #FAFAFA;
+					}
+		@media screen and (max-width: 1250px){
+			.footer {
+				width: 1250px;
+			}
+		}

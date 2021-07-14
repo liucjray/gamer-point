@@ -13,7 +13,7 @@
             </div>
             <div class="b_content_infro">
                 <div class="b_c_infro_t b_c_t2">妖神传说</div>
-                <div class="b_c_infro_con b_c_t2">《妖神传说》是悦世界清新唯美Q版MMO新作，以东方仙侠为背景，拥有跌岩起伏的剧情，绚丽的职业特色技能，独特创新的游戏成长系统，丰富多彩的任务以及各具特色的游戏玩法，带你体验一段激情四溢的仙侠战斗之旅。</div>
+                <div class="b_c_infro_con b_c_t2">《妖神传说》是遊點清新唯美Q版MMO新作，以东方仙侠为背景，拥有跌岩起伏的剧情，绚丽的职业特色技能，独特创新的游戏成长系统，丰富多彩的任务以及各具特色的游戏玩法，带你体验一段激情四溢的仙侠战斗之旅。</div>
                 <div class="b_c_btn b_c_t2"><a href="http://www.htmlsucai.com" target="_blank"><img src="{{ asset('images/btn.png')}}"></a></div>
             </div>
             <div class="b_content_infro"></div>

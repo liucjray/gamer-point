@@ -10,7 +10,7 @@
             <div class="about_con_title">公司介绍</div>
             <div class="about_con_infro">ABOUT US</div>
             <div class="about_font"><p>
-                    广州悦世界信息科技有限公司成立于2013年，是一家以网络游戏为发展起点，集研发、运营为一体的综合性互动娱乐企业。公司成立之初便专注于手机游戏研发，致力于打造高端精品手机游戏，是国内规模较大的手游研发公司之一。</p>
+                    广州遊點信息科技有限公司成立于2013年，是一家以网络游戏为发展起点，集研发、运营为一体的综合性互动娱乐企业。公司成立之初便专注于手机游戏研发，致力于打造高端精品手机游戏，是国内规模较大的手游研发公司之一。</p>
                 <br/>
                 <p>
                     经过数年的沉淀与发展，我们自主研发了《神域之光》《龙族传说》《风暴幻想》等几款备受玩家喜欢的热门手游，其中涉及神话、仙侠、魔幻、Q版、历史等各类题材，并与国外数百家知名企业建立了良好的合作伙伴关系，游戏用户遍及中国大陆及海外地区。</p>
@@ -65,7 +65,7 @@
     </div>
     <div class="life">
         <div class="life_con">
-            <div class="about_con_title">悦世界生活</div>
+            <div class="about_con_title">遊點生活</div>
             <div class="about_con_infro">YRARWOELDLIFE</div>
             <div class="lift_pic">
                 <ul>

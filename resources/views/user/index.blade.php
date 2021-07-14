@@ -20,7 +20,7 @@
         <ul>
             <a class="a1" href="#">
                 <li>
-                    <div class="lun_nav_title">悦世界游戏</div>
+                    <div class="lun_nav_title">遊點游戏</div>
                     <div class="lun_nav_infro">致力打造<br>多样化、创作性游戏</div>
                 </li>
             </a>
@@ -32,8 +32,8 @@
             </a>
             <a class="a3" href="#">
                 <li>
-                    <div class="lun_nav_title">悦世界招聘</div>
-                    <div class="lun_nav_infro">悦世界精英训练营，<br>打造最TOP的你！</div>
+                    <div class="lun_nav_title">遊點招聘</div>
+                    <div class="lun_nav_infro">遊點精英训练营，<br>打造最TOP的你！</div>
                 </li>
             </a>
         </ul>
@@ -124,7 +124,7 @@
             <div class="b_content_infro">
                 <div class="b_c_infro_t b_c_t2">妖神传说</div>
                 <div class="b_c_infro_con b_c_t2">
-                    《妖神传说》是悦世界清新唯美Q版MMO新作，以东方仙侠为背景，拥有跌岩起伏的剧情，绚丽的职业特色技能，独特创新的游戏成长系统，丰富多彩的任务以及各具特色的游戏玩法，带你体验一段激情四溢的仙侠战斗之旅。
+                    《妖神传说》是遊點清新唯美Q版MMO新作，以东方仙侠为背景，拥有跌岩起伏的剧情，绚丽的职业特色技能，独特创新的游戏成长系统，丰富多彩的任务以及各具特色的游戏玩法，带你体验一段激情四溢的仙侠战斗之旅。
                 </div>
                 <div class="b_c_btn b_c_t2">
                     <a href="http://www.htmlsucai.com" target="_blank">

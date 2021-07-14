@@ -4,17 +4,17 @@
     <link rel="stylesheet" href="{{ asset('css/contact.css') }}">
     <div class="contact">
         <div class="contact_con">
-            <div class="c_c_title">联系我们</div>
+            <div class="c_c_title">聯繫我們</div>
             <div class="c_c_pic">
                 <img src="./images/contactpic.png"/>
             </div>
             <div class="c_c_font1">
                 <ul>
-                    <li>地址：广州海珠区新港东路琶洲新村11号楼24层</li>
-                    <li>社招邮箱：hr@yeahworld.com</li>
-                    <li>校招邮箱：xiaozhao@yeahworld.com</li>
-                    <li>乘车路线：地铁站-四号线万胜围站（D出口）</li>
-                    <li>公交站-万胜围站</li>
+                    <li>地址：廣州海珠區新港東路琶洲新村11號樓24層</li>
+                    <li>社招郵箱：hr@yeahworld.com</li>
+                    <li>校招郵箱：xiaozhao@yeahworld.com</li>
+                    <li>乘車路線：地鐵站-四號線萬勝圍站（D出口）</li>
+                    <li>公交站-萬勝圍站</li>
                 </ul>
             </div>
             <div class="c_c_font2">

@@ -20,33 +20,33 @@
         <ul>
             <a class="a1" href="#">
                 <li>
-                    <div class="lun_nav_title">遊點游戏</div>
-                    <div class="lun_nav_infro">致力打造<br>多样化、创作性游戏</div>
+                    <div class="lun_nav_title">遊點遊戲</div>
+                    <div class="lun_nav_infro">致力打造<br>多樣化、創作性遊戲</div>
                 </li>
             </a>
             <a class="a2" href="#">
                 <li>
-                    <div class="lun_nav_title">商务合作</div>
-                    <div class="lun_nav_infro">真诚 合作 共赢<br>期待与您建立全面的商务关系</div>
+                    <div class="lun_nav_title">商務合作</div>
+                    <div class="lun_nav_infro">真誠 合作 共贏<br>期待與您建立全面的商務關係</div>
                 </li>
             </a>
             <a class="a3" href="#">
                 <li>
                     <div class="lun_nav_title">遊點招聘</div>
-                    <div class="lun_nav_infro">遊點精英训练营，<br>打造最TOP的你！</div>
+                    <div class="lun_nav_infro">遊點精英訓練營，<br>打造最TOP的你！ </div>
                 </li>
             </a>
         </ul>
     </div>
     <div class="recommend">
-        <div class="r_title">热门推荐</div>
+        <div class="r_title">熱門推薦</div>
         <div class="r_infro">RECOMMEND GAME</div>
         <div class="r_pic">
             <div class="feng_pic">
                 <div class="r_c_cover">
-                    <div class="r_c_c_title_one">《风暴幻想》<br/>风暴来袭 集结救世</div>
+                    <div class="r_c_c_title_one">《風暴幻想》<br/>風暴來襲 集結救世</div>
                     <span class="r_c_line_one"></span>
-                    <div class="r_c_c_font_one">千人屠龙战一触即发</div>
+                    <div class="r_c_c_font_one">千人屠龍戰一觸即發</div>
                     <div class="r_c_c_btn_one">
                         <a href="http://www.htmlsucai.com" target="_blank">
                             <img src="{{ asset('images/right.png') }}"/>
@@ -56,9 +56,9 @@
             </div>
             <div class="find_pic">
                 <div class="r_c_cover">
-                    <div class="r_c_c_title">《寻找前世之旅》<br/>同名电视剧正版授权</div>
+                    <div class="r_c_c_title">《尋找前世之旅》<br/>同名電視劇正版授權</div>
                     <span class="r_c_line"></span>
-                    <div class="r_c_c_font">剧情还原再现经典</div>
+                    <div class="r_c_c_font">劇情還原再現經典</div>
                     <div class="r_c_c_btn">
                         <a href="http://www.htmlsucai.com" target="_blank">
                             <img src="{{ asset('images/right.png') }}"/>
@@ -68,27 +68,27 @@
             </div>
             <div class="glod_pic">
                 <div class="r_c_cover">
-                    <div class="r_c_c_title">《妖神传说》<br/>为爱入魔妖神出世</div>
+                    <div class="r_c_c_title">《妖神傳說》<br/>為愛入魔妖神出世</div>
                     <span class="r_c_line"></span>
-                    <div class="r_c_c_font">全新坐骑惊艳登场</div>
+                    <div class="r_c_c_font">全新坐騎驚艷登場</div>
                     <div class="r_c_c_btn"><a href="http://www.htmlsucai.com" target="_blank"><img
                                 src="{{ asset('images/right.png') }}"/></a></div>
                 </div>
             </div>
             <div class="warm_pic">
                 <div class="r_c_cover">
-                    <div class="r_c_c_title">《征战十三州》<br/>九月新版本手游发布</div>
+                    <div class="r_c_c_title">《征戰十三州》<br/>九月新版本手游發布</div>
                     <span class="r_c_line"></span>
-                    <div class="r_c_c_font">裂图封王 君临十三州</div>
+                    <div class="r_c_c_font">裂圖封王 君臨十三州</div>
                     <div class="r_c_c_btn"><a href="http://www.htmlsucai.com" target="_blank"><img
                                 src="{{ asset('images/right.png') }}"/></a></div>
                 </div>
             </div>
             <div class="light_pic">
                 <div class="r_c_cover">
-                    <div class="r_c_c_title">《神域之光》<br/>触摸会呼吸的魔幻世界</div>
+                    <div class="r_c_c_title">《神域之光》<br/>觸摸會呼吸的魔幻世界</div>
                     <span class="r_c_line"></span>
-                    <div class="r_c_c_font">新资料片震撼开启</div>
+                    <div class="r_c_c_font">新資料片震撼開啟</div>
                     <div class="r_c_c_btn">
                         <a href="#" target="_blank">
                             <img src="{{ asset('images/right.png') }}"/>
@@ -99,7 +99,7 @@
         </div>
     </div>
     <div class="brang_video">
-        <div class="r_title">品牌视频</div>
+        <div class="r_title">品牌視頻</div>
         <div class="r_infro">BRANG VIDEO</div>
         <div class="b_content">
             <div class="b_content_infro">
@@ -113,8 +113,8 @@
                 </div>
             </div>
             <div class="b_content_infro">
-                <div class="b_c_infro_t">风暴幻想</div>
-                <div class="b_c_infro_con">《风暴英雄》游戏选用清晰独特的幻想题材，在延续经典的PVP、PVE玩法的基础上，加入革新的战斗模式，激爽畅快的竞技快感，让人欲罢不能。</div>
+                <div class="b_c_infro_t">風暴幻想</div>
+                <div class="b_c_infro_con">《風暴英雄》遊戲選用清晰獨特的幻想題材，在延續經典的PVP、PVE玩法的基礎上，加入革新的戰鬥模式，激爽暢快的競技快感，讓人欲罷不能。 </div>
                 <div class="b_c_btn">
                     <a href="#" target="_blank">
                         <img src="{{ asset('images/btn.png') }}" alt="">
@@ -122,9 +122,9 @@
                 </div>
             </div>
             <div class="b_content_infro">
-                <div class="b_c_infro_t b_c_t2">妖神传说</div>
+                <div class="b_c_infro_t b_c_t2">妖神傳說</div>
                 <div class="b_c_infro_con b_c_t2">
-                    《妖神传说》是遊點清新唯美Q版MMO新作，以东方仙侠为背景，拥有跌岩起伏的剧情，绚丽的职业特色技能，独特创新的游戏成长系统，丰富多彩的任务以及各具特色的游戏玩法，带你体验一段激情四溢的仙侠战斗之旅。
+                    《妖神傳說》是遊點清新唯美Q版MMO新作，以東方仙俠為背景，擁有跌岩起伏的劇情，絢麗的職業特色技能，獨特創新的遊戲成長系統，豐富多彩的任務以及各具特色的遊戲玩法，帶你體驗一段激情四溢的仙俠戰鬥之旅。
                 </div>
                 <div class="b_c_btn b_c_t2">
                     <a href="http://www.htmlsucai.com" target="_blank">

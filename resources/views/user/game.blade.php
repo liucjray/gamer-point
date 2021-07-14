@@ -7,26 +7,26 @@
         <div class="b_content">
             <div class="b_content_infro"></div>
             <div class="b_content_infro">
-                <div class="b_c_infro_t">风暴幻想</div>
-                <div class="b_c_infro_con">《风暴英雄》游戏选用清晰独特的幻想题材，在延续经典的PVP、PVE玩法的基础上，加入革新的战斗模式，激爽畅快的竞技快感，让人欲罢不能。</div>
-                <div class="b_c_btn"><a href="http://www.htmlsucai.com" target="_blank"><img src="{{ asset('images/btn.png')}}"></a></div>
+                <div class="b_c_infro_t">風暴幻想</div>
+                <div class="b_c_infro_con">《風暴英雄》遊戲選用清晰獨特的幻想題材，在延續經典的PVP、PVE玩法的基礎上，加入革新的戰鬥模式，激爽暢快的競技快感，讓人欲罷不能。 </div>
+                <div class="b_c_btn"><a href="http://www.htmlsucai.com" target="_blank"><img src="{{ asset('images/btn.png')}}"> </a></div>
             </div>
             <div class="b_content_infro">
-                <div class="b_c_infro_t b_c_t2">妖神传说</div>
-                <div class="b_c_infro_con b_c_t2">《妖神传说》是遊點清新唯美Q版MMO新作，以东方仙侠为背景，拥有跌岩起伏的剧情，绚丽的职业特色技能，独特创新的游戏成长系统，丰富多彩的任务以及各具特色的游戏玩法，带你体验一段激情四溢的仙侠战斗之旅。</div>
-                <div class="b_c_btn b_c_t2"><a href="http://www.htmlsucai.com" target="_blank"><img src="{{ asset('images/btn.png')}}"></a></div>
+                <div class="b_c_infro_t b_c_t2">妖神傳說</div>
+                <div class="b_c_infro_con b_c_t2">《妖神傳說》是遊點清新唯美Q版MMO新作，以東方仙俠為背景，擁有跌岩起伏的劇情，絢麗的職業特色技能，獨特創新的遊戲成長系統，豐富多彩的任務以及各具特色的遊戲玩法，帶你體驗一段激情四溢的仙俠戰鬥之旅。 </div>
+                <div class="b_c_btn b_c_t2"><a href="http://www.htmlsucai.com" target="_blank"><img src="{{ asset('images/btn.png')}}" ></a></div>
             </div>
             <div class="b_content_infro"></div>
             <div class="b_content_infro"></div>
             <div class="b_content_infro">
-                <div class="b_c_infro_t">寻找前世之旅</div>
-                <div class="b_c_infro_con">《寻找前世之旅》为动漫及网剧IP原创手游，是一款世界观宏大的穿越题材手游，除此之外还加入众多奇趣幻想的要素，血族，天帝等中西要素完美交融。缔造专属现代都市之人的趣味冒险。画面精美清晰，带有卡通清新风格以穿越为题材，游戏的剧情内容丰富，世界观架构宏大，人物造型也十分精致。转轮回，前生今世纠缠不休；曲折历程，追寻迷惘之中的模糊记忆；真相显现，穿越时空的冒险旅程。</div>
-                <div class="b_c_btn"><a href="http://www.htmlsucai.com" target="_blank"><img src="{{ asset('images/btn.png')}}"></a></div>
+                <div class="b_c_infro_t">尋找前世之旅</div>
+                <div class="b_c_infro_con">《尋找前世之旅》為動漫及網劇IP原創手游，是一款世界觀宏大的穿越題材手游，除此之外還加入眾多奇趣幻想的要素，血族，天帝等中西要素完美交融。締造專屬現代都市之人的趣味冒險。畫面精美清晰，帶有卡通清新風格以穿越為題材，遊戲的劇情內容豐富，世界觀架構宏大，人物造型也十分精緻。轉輪迴，前生今世糾纏不休；曲折歷程，追尋迷惘之中的模糊記憶；真相顯現，穿越時空的冒險旅程。 </div>
+                <div class="b_c_btn"><a href="http://www.htmlsucai.com" target="_blank"><img src="{{ asset('images/btn.png')}}"> </a></div>
             </div>
             <div class="b_content_infro">
-                <div class="b_c_infro_t b_c_t2">征战十三州</div>
-                <div class="b_c_infro_con b_c_t2">《征战十三州》是一款排兵布阵为题材的回合制策略手游，将经典的策略玩法和大型网游的角色扮演完美结合，搭配独特的兵将招募系统、站纹进阶系统、列阵战斗系统，让玩家在征服乱世的同时可以享受战术运用带来的快感。游戏将玩家代入硝烟四起的战争时代，在征战十三州这个 群雄逐鹿的世界里扮演一名城池君主，担负起拯救乱世苍生、统一天下的大任，屯粮养兵。保卫城池、征战四方，让天下万民臣服于你！</div>
-                <div class="b_c_btn b_c_t2"><a href="http://www.htmlsucai.com" target="_blank"><img src="{{ asset('images/btn.png')}}"></a></div>
+                <div class="b_c_infro_t b_c_t2">征戰十三州</div>
+                <div class="b_c_infro_con b_c_t2">《征戰十三州》是一款排兵布陣為題材的回合製策略手游，將經典的策略玩法和大型網游的角色扮演完美結合，搭配獨特的兵將招募系統、站紋進階系統、列陣戰鬥系統，讓玩家在征服亂世的同時可以享受戰術運用帶來的快感。遊戲將玩家代入硝煙四起的戰爭時代，在征戰十三州這個 群雄逐鹿的世界裡扮演一名城池君主，擔負起拯救亂世蒼生、統一天下的大任，屯糧養兵。保衛城池、征戰四方，讓天下萬民臣服於你！ </div>
+                <div class="b_c_btn b_c_t2"><a href="http://www.htmlsucai.com" target="_blank"><img src="{{ asset('images/btn.png')}}" ></a></div>
             </div>
             <div class="b_content_infro"></div>
         </div>

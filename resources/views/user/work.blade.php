@@ -1,5 +1,5 @@
 @extends('user.base')
-@section('title', 'work')
+@section('title', 'contact')
 @section('content')
     <link rel="stylesheet" href="{{ asset('css/work.css') }}">
     <div class="work_banner"></div>

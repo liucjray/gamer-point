@@ -1,15 +1,15 @@
 <div class="contact_us">
     <div class="contact_con">
         <div class="con_list c_c_one">
-            <div class="con_list_title">联系我们</div>
+            <div class="con_list_title">聯繫我們</div>
             <div class="c_l_wx">
                 <img src="{{ asset('images/wx.png') }}" alt=""/>
-                <div class="wx_font">关注官方微信<br>获得更多资讯</div>
+                <div class="wx_font">關注官方微信<br>獲得更多資訊</div>
                 <img class="wx_img" src="{{ asset('images/ewm1.jpg') }}" alt=""/>
             </div>
             <div class="c_l_wx c_l_wb">
                 <img src="{{ asset('images/wb.png') }}" alt=""/>
-                <div class="wx_font">关注官方微博<br>获得更多资讯</div>
+                <div class="wx_font">關注官方微博<br>獲得更多資訊</div>
             </div>
         </div>
         <div class="con_list c_c_two">
@@ -19,7 +19,7 @@
             </div>
             <div class="c_c_t_con c_c_address">
                 <img src="{{ asset('images/address.png') }}" alt=""/>
-                <div class="c_mail">地址：广东省广州市海珠区新港东路琶洲新村</div>
+                <div class="c_mail">地址：廣東省廣州市海珠區新港東路琶洲新村</div>
             </div>
         </div>
         <div class="con_list c_c_three">

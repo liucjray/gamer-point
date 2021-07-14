@@ -1,5 +1,5 @@
 @extends('user.base')
-@section('title', 'about')
+@section('title', 'contact')
 @section('content')
     <link rel="stylesheet" href="{{ asset('css/about.css') }}">
 
@@ -7,16 +7,16 @@
         <div class="about_con">
             <div class="leftyh"><img src="{{ asset('images/leftyh.png') }}"/></div>
             <div class="rightyh"><img src="{{ asset('images/rightyh.png') }}"/></div>
-            <div class="about_con_title">公司介绍</div>
+            <div class="about_con_title">公司介紹</div>
             <div class="about_con_infro">ABOUT US</div>
             <div class="about_font"><p>
-                    广州遊點信息科技有限公司成立于2013年，是一家以网络游戏为发展起点，集研发、运营为一体的综合性互动娱乐企业。公司成立之初便专注于手机游戏研发，致力于打造高端精品手机游戏，是国内规模较大的手游研发公司之一。</p>
+                    廣州遊點信息科技有限公司成立於2013年，是一家以網絡遊戲為發展起點，集研發、運營為一體的綜合性互動娛樂企業。公司成立之初便專注於手機遊戲研發，致力於打造高端精品手機遊戲，是國內規模較大的手游研發公司之一。 </p>
                 <br/>
                 <p>
-                    经过数年的沉淀与发展，我们自主研发了《神域之光》《龙族传说》《风暴幻想》等几款备受玩家喜欢的热门手游，其中涉及神话、仙侠、魔幻、Q版、历史等各类题材，并与国外数百家知名企业建立了良好的合作伙伴关系，游戏用户遍及中国大陆及海外地区。</p>
+                    經過數年的沉澱與發展，我們自主研發了《神域之光》《龍族傳說》《風暴幻想》等幾款備受玩家喜歡的熱門手游，其中涉及神話、仙俠、魔幻、Q版、歷史等各類題材，並與國外數百家知名企業建立了良好的合作夥伴關係，遊戲用戶遍及中國大陸及海外地區。 </p>
                 <br/>
                 <p>“We develop games that amuse
-                    pelope!”除了上线游戏外，我们的研发团队仍在努力尝试不同类型不同风格的项目，致力于打造多样化和创作性的游戏来满足玩家需求，用我们的行动来刷新我们在行业的奇迹。</p>
+                    pelope!”除了上線遊戲外，我們的研發團隊仍在努力嘗試不同類型不同風格的項目，致力於打造多樣化和創作性的遊戲來滿足玩家需求，用我們的行動來刷新我們在行業的奇蹟。 </p>
             </div>
             <div class="lunbo">
                 <div class="lun_list">
@@ -37,26 +37,26 @@
                 <ul>
                     <li>
                         <img src="{{ asset('images/culture1.png') }}"/><br>
-                        <span style="color: #35AFFC;">细节与执行</span>
+                        <span style="color: #35AFFC;">細節與執行</span>
                         <div class="c_p_font">
-                            1、以小见大，于细微处见真章，不放弃每一处细节的关注，是我们追求极致的态度<br><br>
-                            2、执行力是实习创新的第一步，是我们实现超越和前进的滚动轴
+                            1、以小見大，於細微處見真章，不放棄每一處細節的關注，是我們追求極致的態度<br><br>
+                            2、執行力是實習創新的第一步，是我們實現超越和前進的滾動軸
                         </div>
                     </li>
                     <li>
                         <img src="{{ asset('images/culture2.png') }}"/><br>
-                        <span style="color: #B64B4C;">创新与学习</span>
+                        <span style="color: #B64B4C;">創新與學習</span>
                         <div class="c_p_font">
-                            1、不破而不立，敢于突破、敢于尝试、不惧失败，是我们能够给予玩家的惊喜<br><br>
-                            2、不断学习，保持进取心，是我们保证产品质量的加油剂
+                            1、不破而不立，敢於突破、敢於嘗試、不懼失敗，是我們能夠給予玩家的驚喜<br><br>
+                            2、不斷學習，保持進取心，是我們保證產品質量的加油劑
                         </div>
                     </li>
                     <li>
                         <img src="{{ asset('images/culture3.png') }}"/><br>
-                        <span style="color: #7BB96E;">敬业与合作</span>
+                        <span style="color: #7BB96E;">敬業與合作</span>
                         <div class="c_p_font">
-                            1、先敬业而后得成，热爱自己的工作，是我们能做出优秀产品的前提基础<br><br>
-                            2、具备大局观念，懂得彼此分享，设立共同职业目标，是我们具备效率的有力保证
+                            1、先敬業而後得成，熱愛自己的工作，是我們能做出優秀產品的前提基礎<br><br>
+                            2、具備大局觀念，懂得彼此分享，設立共同職業目標，是我們具備效率的有力保證
                         </div>
                     </li>
                 </ul>
@@ -72,38 +72,38 @@
                     <li>
                         <p>01</p>
                         <img src="{{ asset('images/lifepic.png') }}"/>
-                        <div class="l_p_title">五险一金</div>
-                        <div class="l_p_font">行业领先的薪酬待遇及补贴，完善的<span>五险一金</span>制度</div>
+                        <div class="l_p_title">五險一金</div>
+                        <div class="l_p_font">行業領先的薪酬待遇及補貼，完善的<span>五險一金</span>制度</div>
                     </li>
                     <li>
                         <p>02</p>
                         <img class="li_pic2" src="{{ asset('images/lifepic2.png') }}"/>
                         <div class="l_p_title">一日三餐</div>
-                        <div class="l_p_font">免费提供<span>一日三餐和水果</span>，妈妈再也不用担心我吃不饱</div>
+                        <div class="l_p_font">免費提供<span>一日三餐和水果</span>，媽媽再也不用擔心我吃不飽</div>
                     </li>
                     <li>
                         <p>03</p>
                         <img class="li_pic2 li_pic3" src="{{ asset('images/lifepic3.png') }}"/>
-                        <div class="l_p_title">药箱常备</div>
-                        <div class="l_p_font">药箱常备，年度体检，健康是最大的本钱</div>
+                        <div class="l_p_title">藥箱常備</div>
+                        <div class="l_p_font">藥箱常備，年度體檢，健康是最大的本錢</div>
                     </li>
                     <li>
                         <p>04</p>
                         <img class="li_pic2" src="{{ asset('images/lifepic4.png') }}"/>
-                        <div class="l_p_title">带薪年假</div>
-                        <div class="l_p_font">带薪年假、病假人性化制度等着你</div>
+                        <div class="l_p_title">帶薪年假</div>
+                        <div class="l_p_font">帶薪年假、病假人性化製度等著你</div>
                     </li>
                     <li>
                         <p>05</p>
                         <img class="li_pic3 li_pic4" src="{{ asset('images/lifepic5.png') }}"/>
-                        <div class="l_p_title">节日礼物</div>
-                        <div class="l_p_font"><span>节日礼物、生日惊喜</span>，在公司也能过的甜蜜蜜</div>
+                        <div class="l_p_title">節日禮物</div>
+                        <div class="l_p_font"><span>節日禮物、生日驚喜</span>，在公司也能過的甜蜜蜜</div>
                     </li>
                     <li>
                         <p>06</p>
                         <img class="li_pic6" src="{{ asset('images/lifepic6.png') }}"/>
-                        <div class="l_p_title">档案挂靠</div>
-                        <div class="l_p_font">考虑周全的户口和档案挂靠，应届烦恼都是浮云</div>
+                        <div class="l_p_title">檔案挂靠</div>
+                        <div class="l_p_font">考慮周全的戶口和檔案挂靠，應屆煩惱都是浮雲</div>
                     </li>
                 </ul>
             </div>
